@@ -162,3 +162,4 @@ website/package-lock.json
 .gdb_history
 report_*.html
 
+config.bat
