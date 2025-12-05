@@ -101,7 +101,6 @@ nbproject/*
 .idea
 
 # Microsoft Visual Studio Code
-.vscode
 
 config-preprocessed.xml
 
@@ -162,3 +161,4 @@ website/package-lock.json
 .gdb_history
 report_*.html
 
+config.bat
